@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Static Website",
+        "title": "React Website",
         "startDate": "2020",
         "description": "The Consulting Corp. A static website made for company using ReactJs. This website was developed to provide information about the company and added contact through email; functionality using third party plugins.",
         "images": [
